@@ -1,5 +1,6 @@
-Governing Ourselves Better
-==========================
+---
+title: Governing Ourselves Better
+---
 
 ----
 
