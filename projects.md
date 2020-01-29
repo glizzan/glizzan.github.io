@@ -1,9 +1,10 @@
 ---
 title: Projects
+permalink: /projects/
 ---
 
 ----
 
 ## Projects
 
-This tests making a page.
+
