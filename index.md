@@ -1,5 +1,6 @@
 ---
 title: Governing Ourselves Better
+layout: page
 ---
 
 ----
