@@ -154,8 +154,6 @@ One company's solution to the problem of abuse is especially interesting.
 
 Facebook has been so besieged by criticisms of how they handle content moderation decisions that they're creating something called the 'Facebook Supreme Court'. This is meant to be a legally distinct organization from Facebook that has the power to review and overturn moderation decisions.
 
-(It's not actually a legally distinct organization - my review of the proposed charter suggests that the board will be appointed by people appointed by Facebook, so like a fig leaf's worth of independence - but we'll leave that aside for now.)
-
 I find the framing here fascinating. Facebook has been using a private property model on their platform, but when it’s clear that that’s not working, what do they turn to? Public property. They use language invoking the most authoritative body of one of our three branches of government. 
 
 But government owned property and privately owned property are not our only two conceptual options. There are many other approaches we could use, and I favor one in particular: commons management.
@@ -227,7 +225,7 @@ As I’ve said, one size doesn't fit all. We need to adapt our rules to local ci
 
 And platforms do make these local distinctions when forced. For instance, Facebook is much better about [removing far-right hate speech from German Facebook](https://www.reuters.com/article/us-facebook-germany/facebook-deletes-hundreds-of-posts-under-german-hate-speech-law-idUSKBN1KH21L) because the German legal system requires it.
 
-# What a commons platform Looks Like
+# What a commons platform looks like
 
 I've spent a lot of time talking about Twitter and Facebook and other platforms that use this oversimplified private property model. But what does a platform that embraces the idea of a digital commons look like?
 
