@@ -16,7 +16,7 @@ The Glizzan project seeks to help with all three of these challenges.  Much of o
 
 Our governance framework, Concord, provides an alternative to existing digital platforms, who have been too likely to assume groups want either dictatorship-style social structures, or no structures at all.  Concord lets online communities design systems for moderation, conflict resolution, leadership transition, and more, based around their needs and values.
 
-Want to learn more?  [Get involved.](/get-involved/)
+Want to learn more?
 
 
 
