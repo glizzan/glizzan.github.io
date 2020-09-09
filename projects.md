@@ -1,9 +1,9 @@
 ---
 title: Projects
 permalink: /projects/
+landing-title: 'Projects'
+show_tile: true
 ---
-
-----
 
 ## Concord
 
