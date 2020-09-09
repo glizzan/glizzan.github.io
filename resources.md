@@ -6,7 +6,7 @@ nav-menu: true
 
 ## Recommended Reading
 
-[Governing the Commons](https://wtf.tw/ref/ostrom_1990.pdf) by [Elinor Ostrom]((https://en.wikipedia.org/wiki/Elinor_Ostrom): Governing the Commons is perhaps the most important work of Nobel prize winning economist Elinor Ostrom. It explores how communities are able to successfully manage common resources - and why these commons sometimes fall apart.
+[Governing the Commons](https://wtf.tw/ref/ostrom_1990.pdf) by [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom): Governing the Commons is perhaps the most important work of Nobel prize winning economist Elinor Ostrom. It explores how communities are able to successfully manage common resources - and why these commons sometimes fall apart.
 
 ## Projects to Check Out
 

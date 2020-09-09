@@ -10,10 +10,13 @@ nav-menu: true
 
 Concord is a software package (written in Python, for Django) which makes it easier for websites to implement complex and flexible governance/permissions structures for their users.
 
-We are currently building two prototype websites which use Concord in this way.  One is a governance platform for groups interested in collaboratively exploring new governance structures.  The other is a platform for those interested in addressing the specific problem of online misinformation through collective governance.
+## Kybern
 
-If you'd like to check out the first project, our governance platform [Kybern](https://www.kybern.org/), email us at glizzanplatform at gmail dot com to get an early access
-code.
+[Kybern](https://www.kybern.org/) is a website which implements the Concord library. Please [contact us](https://www.glizzan.com/get-involved/) to get early access to the platform or to learn more. Here's a glimpse at what you can do on Kybern:
+
+<img src="https://www.glizzan.com/assets/kybern/permission.gif" width="70%">
+
+You can also see more screenshots via [this post](https://www.glizzan.com/governance/projects/2020/09/08/a-sneak-peak-at-kybern.html).
 
 ## Governance Case Studies
 

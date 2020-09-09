@@ -1,5 +1,6 @@
 ---
 title: "Governing the Information Commons"
+teaser: "Modern digital platforms encode individualist and capitalist concepts of property ownership into their very design - but what are the alternatives?"
 tags:
   - governance
   - social media
