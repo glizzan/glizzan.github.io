@@ -1,2 +1,8 @@
 remote_theme: andrewbanchich/forty-jekyll-theme
 
+# site settings
+title: Glizzan
+subtitle: governing ourselves better
+description: A community for creating governance technologies, skills, and culture.
+url: www.glizzan.com # the base hostname & protocol for your site
+
