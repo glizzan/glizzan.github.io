@@ -1,13 +1,12 @@
 ---
 title: Home
+landing-title: 'Governing ourselves better'
 layout: home
 description: null
 image: null
 author: null
 show_tile: false
 ---
-
-## Who We Are
 
 The Glizzan community's goal is to help groups self-govern, with a particular focus on groups interacting via digital platforms.
 
