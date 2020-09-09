@@ -27,7 +27,8 @@
 
     </div>
 
-    {% if page.title == 'Get Involved' %} {% include footer.html %} {% endif %}
+    {% if page.title == 'Get Involved' %} {% include contact_footer.html %} {% endif %}
+    {% if page.title != 'Get Involved' %} {% include footer.html %} {% endif %}
 
   </body>
 
