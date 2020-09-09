@@ -1,6 +1,7 @@
 ---
 title: Resources
 permalink: /resources/
+nav-menu: true
 ---
 
 ----

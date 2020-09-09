@@ -1,6 +1,7 @@
 ---
 title: Get Involved
 permalink: /get-involved/
+nav-menu: true
 ---
 
 ----
