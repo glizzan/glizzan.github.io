@@ -1,9 +1,11 @@
 ---
-title: Governing Ourselves Better
-layout: page
+title: Home
+layout: home
+description: null
+image: null
+author: null
+show_tile: false
 ---
-
-----
 
 ## Who We Are
 
