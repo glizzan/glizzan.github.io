@@ -6,6 +6,7 @@ subtitle: governing ourselves better
 description: A community for creating governance technologies, skills, and culture.
 url: https://www.glizzan.com # the base hostname & protocol for your site
 email: glizzanplatform@gmail.com
+permalink: /:year/:month/:day/:title:output_ext
 
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
